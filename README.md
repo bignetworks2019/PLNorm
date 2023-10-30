@@ -14,6 +14,9 @@ The script requires the following to be installed:
 - Python (3.x)
 - NumPy
 
+## Installation
+To use this tool, clone the repository to your local machine using the following command:
+
 ## Usage
 Run the script from the command line by providing the genome type, input directory path, and output directory path. Optionally, a suffix for the output files can be specified.
 
