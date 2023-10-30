@@ -7,8 +7,6 @@ This repository hosts a Python-based command-line tool designed to normalize sin
 - [Usage](#usage)
 - [Examples](#examples)
 - [Adding New Genomes](#adding-new-genomes)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
