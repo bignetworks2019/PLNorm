@@ -20,6 +20,9 @@ To use this tool, clone the repository to your local machine using the following
 ## Usage
 Run the script from the command line by providing the genome type, input directory path, and output directory path. Optionally, a suffix for the output files can be specified.
 
+### Input format
+Note that we should have a bunch of cell contact matrix files as the input for this algorithm, and they should be squared matrices in text format.
+
 ### Command syntax
 python PLNorm.py --genome_type <GENOME_TYPE> --input_base_dir <INPUT_DIR> --output_base_dir <OUTPUT_DIR> [--output_suffix <SUFFIX>]
 
