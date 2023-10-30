@@ -34,7 +34,7 @@ To normalize single-cell Hi-C data for the hg19 human genome without a custom su
 python PLNorm.py --genome_type hg19 --input_base_dir /path/to/input --output_base_dir /path/to/output
 
 To add a custom suffix _norm to the output filenames:
-python normalize_scHiC.py --genome_type hg19 --input_base_dir /path/to/input --output_base_dir /path/to/output --output_suffix _norm
+python PLNorm.py --genome_type hg19 --input_base_dir /path/to/input --output_base_dir /path/to/output --output_suffix _norm
 
 ### Example data
 To run PLNorm on the example data provided in the "/data" folder, we can start with:
