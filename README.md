@@ -1,5 +1,5 @@
 # PLNorm
-This repository hosts a Python-based command-line tool designed to normalize single-cell Hi-C data efficiently. It is tailored to handle various genome types and accommodates a range of chromosome numbers and file naming conventions.
+This repository hosts a Python-based tool designed to normalize single-cell Hi-C data efficiently. It is tailored to handle various genome types and utilize the power law behavior existing in scHi-C data.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
